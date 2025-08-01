@@ -2,17 +2,6 @@
 
 Related documentation: https://google.github.io/adk-docs/
 
-<!-- ferdyhape@***:~/Project/Py/agent-pyt$ tree
-.
-├── multi_tool_agent
-│   ├── agent.py
-│   ├── __init__.py
-│   └── __pycache__
-│       ├── agent.cpython-310.pyc
-│       └── __init__.cpython-310.pyc
-├── README.md
-└── requirements.txt -->
-
 # How to run
 
 1. Install the required packages
