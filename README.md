@@ -33,3 +33,9 @@ adk run multi_tool_agent
 # API
 adk api_server
 ```
+
+4. (Optional) Run with fastapi
+
+```bash
+python3 main.py
+```
